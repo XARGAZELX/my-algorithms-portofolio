@@ -1,0 +1,49 @@
+# Mi Portafolio de Algoritmos
+
+Este repositorio es para el projecto final. Aqui voy a incluir programas y explicaciones sobre algoritmos que vimos en la clase.
+
+## Mi parte
+
+Mi parte del projecto grupal es Buuble Sort.
+
+## Bubble Sort
+
+Bubble Sort es un algrotimo de ordenamiento que sirve para poner números en orden.
+
+Este algorimo funciona comparando dos números que están uno al lado del otro. Si el número de la izquierda es más grande que el número de la derecha, se cambian de lugar. El proceso se repite varias veces hasta que la lista queda ordenada.
+
+Ejemplo:
+
+[5, 2, 4]
+
+Primero se compara 5 y 2.
+
+Como 5 es más grande que 2, se cambian de lugar:
+
+[2, 5, 4]
+
+Después se compara 5 y 4.
+
+Como 5 es mas grande que 4, tambien se cambian de lugar.
+
+[2, 4, 5]
+
+Ahora la lista de ordenada.
+
+## Explicar Bubble Sort a un principante
+
+Bubble Sort es como organizar números poco a poco. Se miran dos números que están juntos y se verifica si estan en el orden correcto. Si están mal, se cambian.
+
+Los números más grandes se van moviendo poco a poco hacia el final de la lista. Por eso se llama Bubble Sort, porque parece que los números grandes van subiendo como burbujas hasta llegar a su lugar.
+
+## Fortaleza
+
+Bubble Sort es fácil de entender y es bueno para principantes.
+
+## Limitación
+
+Bubble Sort no es muy rápido cuando la lista tiene muchos números.
+
+## Reflexión
+
+Aprendi que los algoritmos son instrucciones paso a paso que ayudan a resolver problemas. Bubble Sort me ayudó a entender cómo una computadora puede ordenar números comparando y cambiando valores.
